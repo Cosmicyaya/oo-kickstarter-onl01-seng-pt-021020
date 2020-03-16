@@ -13,5 +13,4 @@ class Backer
   def hoverboard.backers(name)
     @name = name
   end
-  end
 end
